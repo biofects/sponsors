@@ -10,4 +10,4 @@ Thank you to everyone who supports my open-source work!
 ## 🌟 Sponsor Wall
 
 See the full shout-out list:  
-➡️ [shoutouts.md](./shoutouts.md)
+➡️ [shoutouts.md](./SPONSORS.md)
