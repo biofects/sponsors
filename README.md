@@ -31,7 +31,8 @@ Choose your tier at: [https://github.com/sponsors/biofects](https://github.com/s
 
 Your contributions support my open source work including:
 - Home Assistant integrations and UI themes
-- Custom cards like `biofects-header-card`
+- Custom Piper Voices
+- Other programming help or ideas
 - Community support and tutorials
 
 Thank you 💖
