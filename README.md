@@ -1,4 +1,4 @@
-# 💎 biofects Sponsors
+# 💎 Biofects Sponsors
 
 Thank you to everyone who supports my open-source work!
 
