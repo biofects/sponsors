@@ -17,7 +17,7 @@ Want to be featured here? [Become a sponsor](https://github.com/sponsors/biofect
 ## 🌟 Supporters – $10/month
 📢 Shoutout on this sponsor wall!
 
-- `Anonymous` – Donated $10 via PayPal 🙏
+- `JOHNNY COCHRAN` – Donated $10 via PayPal 🙏
 
 ---
 
