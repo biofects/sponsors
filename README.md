@@ -8,7 +8,7 @@ Want to be featured here? [Become a sponsor](https://github.com/sponsors/biofect
 ## 🏆 Gold Tier – $25/month or $350 one-time
 💬 Name/logo featured on all project READMEs  
 🎟️ Invite to private community Slack  
-🧑‍💼 Option for 1:1 consulting (with one-time)
+🧑‍💼 Option for 1:1 consulting (with one-time max 2 hours)
 
 - `Your Name Here` – Become the first Gold Sponsor!
 
